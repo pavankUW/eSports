@@ -4,4 +4,10 @@
 .article-title {
     text-align: center;
     padding-top: 50px;
+    padding-bottom:50px;
+}
+
+.banner {
+    max-width: 150% ;
+    margin-left: -25%;
 }
